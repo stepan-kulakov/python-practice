@@ -1,0 +1,3 @@
+Python is a popular language. 
+Python is easy to read, and Python is powerful. 
+Many people learn Python because it is simple, and simple code is easy to maintain.
