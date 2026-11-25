@@ -4,7 +4,7 @@ Small Python exercises I write to learn the language. Each script is a single fi
 
 ## About
 
-Robotics and Automation student at the University of Turku, learning Python with a focus on Computer Vision.
+Information Technology student at the University of Turku, learning Python with a focus on Computer Vision.
 
 ## Exercises
 
