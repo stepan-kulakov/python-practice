@@ -15,6 +15,7 @@ Information Technology student at the University of Turku, learning Python with 
 | `word_count.py` | Reads `text.txt` and prints the ten most common words |
 | `temperature.py` | Converts between Celsius and Fahrenheit using a simple menu |
 | `stats.py` | Calculates the minimum, maximum and average of a list of numbers |
+| `sqlite_demo.py` | Creates an in-memory SQLite table of books, adds rows and runs SELECT queries |
 
 ## How to run
 
